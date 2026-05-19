@@ -1,0 +1,45 @@
+
+COVID-19 PREDICTIVE MODELING REPORT
+==================================
+
+PROJECT OBJECTIVE
+-----------------
+Build machine learning models to predict
+confirmed COVID-19 cases.
+
+ALGORITHMS USED
+---------------
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+
+MODEL PERFORMANCE
+-----------------
+
+LINEAR REGRESSION
+R2 Score: 0.9950552806514623
+
+DECISION TREE
+R2 Score: 0.9991633965971043
+
+RANDOM FOREST
+R2 Score: 0.9994330913146912
+
+BEST MODEL
+-----------
+Random Forest Regressor performed best
+based on R2 Score.
+
+TECHNOLOGIES USED
+-----------------
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+PROJECT OUTCOME
+---------------
+Learned supervised machine learning,
+model training, testing, evaluation,
+and visualization techniques.
